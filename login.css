@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(#9c4d23,#cad3d1,#58a94d);
+}
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 2rem;
+    font-size: 1.2rem;
+    border: 0.1rem solid #1100ff;
+    border-radius: 39px;
+    background: #ffeeff;
+    color: #0d00ff;
+    cursor: pointer;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background: #4552ae;
+    color: #ffeeff;
+}
